@@ -10,4 +10,6 @@ export const elements = {
   playingInfo: document.querySelector(".playing .info"),
   form: document.querySelector("form"),
   title: document.querySelector(".songs h2"),
+  section: document.querySelector("section"),
+  span: document.querySelector("a span"),
 };

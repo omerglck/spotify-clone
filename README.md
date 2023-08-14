@@ -1,16 +1,22 @@
-# Yapılanlar
+# Spotift Clone
 
-- Responsive Yapı
+- Shazam api kullanarak Türkiye'de ki popüler olan müzikleri ekrana aktardık.
 
-- Popüler müzikleri ekrana aktarma
+- Kullanıcın girdiği müzikleri api'dan alarak kullanıcıya aktardık.
 
-- Açılır kapanır menu
+## Kullanılan Teknolojiler
 
-- Aratılan müzikleri ekrana aktarma
+- HTML
 
-# Yapılacaklar
+- SCSS
 
-- Ekran yüklenirken loading gifi gösterme
+- JavaScript
+
+- Responsive yapı
+
+## Gif
+
+<img src="screen.gif"/>
 
 ## Kaynaklar
 

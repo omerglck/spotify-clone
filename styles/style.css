@@ -253,6 +253,16 @@ main .songs .list .card figure .play:hover {
   animation: turn 3s infinite linear;
 }
 
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loader img {
+  width: 200px;
+  height: 200px;
+}
+
 @media screen and (max-width: 850px) {
   main header form #menu {
     display: flex;

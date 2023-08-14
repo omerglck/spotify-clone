@@ -68,6 +68,7 @@ elements.form.addEventListener("submit", (e) => {
   const query = e.target[0].value;
 
   if (!query) return;
+
   // başlığı güncelle
   updateTitle(`${query} İçin Sonuçlar`);
   // aratılan kelimeyle eşleşen müzikleri çeker

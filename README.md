@@ -14,6 +14,10 @@
 
 - Responsive yapı
 
+## Demo
+
+- <a href="https://spotifyclone-00.netlify.app/">Canlı Önizleme</a>
+
 ## Gif
 
 <img src="screen.gif"/>
